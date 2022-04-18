@@ -196,7 +196,7 @@
 	"visualeditor-dialog-transclusion-remove-param": "Xóa trường",
 	"visualeditor-dialog-transclusion-remove-template": "Gỡ bản mẫu",
 	"visualeditor-dialog-transclusion-required-parameter": "Trường bắt buộc",
-	"visualeditor-dialog-transclusion-required-parameter-description": "Trường bị bắt buộc.",
+	"visualeditor-dialog-transclusion-required-parameter-description": "Trường bắt buộc.",
 	"visualeditor-dialog-transclusion-required-parameter-dialog-cancel": "Quay lại",
 	"visualeditor-dialog-transclusion-required-parameter-dialog-ok": "Kệ và tiếp tục",
 	"visualeditor-dialog-transclusion-required-parameter-dialog-title": "Thiếu {{PLURAL:$1}}trường yêu cầu",
