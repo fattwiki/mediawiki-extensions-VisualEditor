@@ -6,7 +6,8 @@
 			"Maoris",
 			"Pymouss",
 			"Y-M D",
-			"Adriendelucca"
+			"Adriendelucca",
+			"Huñvreüs"
 		]
 	},
 	"collabpad-import-subtitle": "Enporzhiet eus $1",
@@ -185,6 +186,7 @@
 	"visualeditor-media-title-image": "Skeudenn",
 	"visualeditor-media-title-video": "Video",
 	"visualeditor-meta-tool": "Arventennoù",
+	"visualeditor-mweditmode-tooltip": "Cheñch gwelaozer",
 	"visualeditor-mweditmodesource-progress": "Cheñch evit an aozañ dre ar c'hod...",
 	"visualeditor-mweditmodesource-warning-cancel": "Nullañ",
 	"visualeditor-mweditmodesource-warning-switch-discard": "Dilezel ma c'hemmoù ha cheñch",

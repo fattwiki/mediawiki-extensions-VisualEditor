@@ -224,7 +224,7 @@
 	"visualeditor-dialog-transclusion-param-info": "Описание поля",
 	"visualeditor-dialog-transclusion-param-info-missing": "Описание поля недоступно",
 	"visualeditor-dialog-transclusion-placeholder": "Добавить шаблон",
-	"visualeditor-dialog-transclusion-raw-fallback": "Отступить к простой викиразметке",
+	"visualeditor-dialog-transclusion-raw-fallback": "Вернуться к простому вики-тексту",
 	"visualeditor-dialog-transclusion-remove-content": "Удалить содержимое",
 	"visualeditor-dialog-transclusion-remove-param": "Удалить поле",
 	"visualeditor-dialog-transclusion-remove-template": "Удалить шаблон",
@@ -442,7 +442,7 @@
 	"visualeditor-wikitext-progress": "Преобразование вики-текста",
 	"visualeditor-wikitext-warning": "Вы используете визуальный редактор — [[{{MediaWiki:visualeditor-wikitext-warning-link}}|вики-разметка]] здесь не работает. Чтобы в любое время переключиться назад на редактирование исходного текста без потери изменений, нажмите на кнопку переключателя.",
 	"visualeditor-wikitext-warning-title": "Обнаружена вики-разметка",
-	"visualeditor-wikitextconvert-title": "Перевести форматирование в вики-код?",
+	"visualeditor-wikitextconvert-title": "Перевести форматирование в вики-текст?",
 	"visualeditor-wikitextconvert-message": "Скопированное вами содержимое содержит форматирование. Нужно ли его перевести в вики-код или вставить без форматирования?",
 	"visualeditor-wikitextconvert-plain": "Вставить без форматирования",
 	"visualeditor-wikitextconvert-convert": "Преобразовать в вики-код"
