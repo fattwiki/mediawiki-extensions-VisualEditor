@@ -11,7 +11,8 @@
 			"Дзяніс Тутэйшы",
 			"Чаховіч Уладзіслаў",
 			"ZlyiLev",
-			"Chadyka"
+			"Chadyka",
+			"No Sleep till Krupki"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -216,8 +217,8 @@
 	"visualeditor-includes-onlyinclude-description": "Калі змест з гэтай старонкі выкарыстоўваецца іншай старонкай, <strong>толькі</strong> змест адсюль да адпаведнага канцавога маркера будзе ўключаны. Будзьце ўважлівыя пры рэдагаванні зместу паміж гэтымі маркерамі, бо іншыя старонкі могуць выкарыстоўваць яго.",
 	"visualeditor-includes-includeonly-description": "Калі змест з гэтай старонкі выкарыстоўваецца іншай старонкай, сюды будзе ўключаны наступны дадатковы змест:",
 	"visualeditor-languages-tool": "Мовы",
-	"visualeditor-linkinspector-button-link-external": "Спасылка ў Сеціва",
-	"visualeditor-linkinspector-button-link-internal": "Пошук старонкі",
+	"visualeditor-linkinspector-button-link-external": "Вонкавы сайт",
+	"visualeditor-linkinspector-button-link-internal": "Пошук унутраных старонак",
 	"visualeditor-linkinspector-convert-link-isbn": "Ператварыць у ISBN-спасылку",
 	"visualeditor-linkinspector-convert-link-pmid": "Ператварыць у PMID-спасылку",
 	"visualeditor-linkinspector-convert-link-rfc": "Ператварыць у RFC-спасылку",
