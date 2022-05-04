@@ -46,7 +46,11 @@
 			"Bruno44101",
 			"Jakeukalane",
 			"TMg",
-			"DDPAT"
+			"DDPAT",
+			"Adamw",
+			"DiegoAmbrocio",
+			"Ice bulldog",
+			"Josuert"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -229,6 +233,7 @@
 	"visualeditor-dialog-transclusion-param-example-long": "Ejemplo: $1",
 	"visualeditor-dialog-transclusion-param-info": "Descripción del campo",
 	"visualeditor-dialog-transclusion-param-info-missing": "El campo no tiene ninguna descripción",
+	"visualeditor-dialog-transclusion-param-undocumented": "(Parámetro sin documentación)",
 	"visualeditor-dialog-transclusion-placeholder": "Añadir una plantilla",
 	"visualeditor-dialog-transclusion-raw-fallback": "Caer de nuevo a wikitexto plano",
 	"visualeditor-dialog-transclusion-remove-content": "Eliminar el contenido",
@@ -253,6 +258,7 @@
 	"visualeditor-dialog-transclusion-reset-confirmation-cancel": "Continuar editando",
 	"visualeditor-dialog-transclusion-reset-confirmation-reset": "Eliminar plantilla",
 	"visualeditor-dialog-transclusion-feedback-message": "Se completó un trabajo reciente para mejorar los resultados de búsqueda de plantillas. Para obtener más información sobre los cambios o dejar comentarios, vaya a la [//meta.wikimedia.org/wiki/WMDE_Technical_Wishes/Finding_and_inserting_templates página del proyecto].",
+	"visualeditor-dialog-transclusion-wikitext": "Código",
 	"visualeditor-dialogbutton-media-tooltip": "Imágenes y multimedia",
 	"visualeditor-dialogbutton-meta-tooltip": "Configuración de página",
 	"visualeditor-dialogbutton-template-tooltip": "Plantilla",
