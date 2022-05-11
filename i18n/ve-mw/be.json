@@ -165,7 +165,7 @@
 	"visualeditor-dialog-transclusion-action-save": "Запісаць",
 	"visualeditor-dialog-transclusion-absent-template": "Шаблон «$1» пакуль не існуе.",
 	"visualeditor-dialog-transclusion-add-content": "Дадаць змест",
-	"visualeditor-dialog-transclusion-add-wikitext": "Дадаць вікітекст",
+	"visualeditor-dialog-transclusion-add-wikitext": "Дадаць вікі-тэкст",
 	"visualeditor-dialog-transclusion-add-param": "Дадаць больш інфармацыі",
 	"visualeditor-dialog-transclusion-add-param-error-exists-selected": "Немагчыма дадаць два параметра з аднолькавай назвай.",
 	"visualeditor-dialog-transclusion-add-param-error-exists-unselected": "Гэты параметр ужо даступны для выкарыстання. Калі ласка, праверце мажлівасці на бакавой панэлі.",
