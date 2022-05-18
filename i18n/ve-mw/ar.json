@@ -194,6 +194,7 @@
 	"visualeditor-dialog-transclusion-content": "محتوى",
 	"visualeditor-dialog-transclusion-contextitem-description": "مولد من: $1",
 	"visualeditor-dialog-transclusion-expand-options": "إظهار الخيارات",
+	"visualeditor-dialog-transclusion-filter-placeholder": "جِد حقلًا",
 	"visualeditor-dialog-transclusion-filter-no-match": "لم يتم العثور على تطابق",
 	"visualeditor-dialog-transclusion-deprecated-parameter": "حقل مستغنى عنه",
 	"visualeditor-dialog-transclusion-deprecated-parameter-description": "استغني عن هذا الحقل.$1",

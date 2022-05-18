@@ -18,7 +18,8 @@
 			"ערן",
 			"פוילישער",
 			"קיפודנחש",
-			"תומר ט"
+			"תומר ט",
+			"YaronSh"
 		]
 	},
 	"collabpad-doctitle": "פנקס שיתופי: $1",
@@ -82,7 +83,7 @@
 	"visualeditor-dialog-media-position-none": "ללא",
 	"visualeditor-dialog-media-position-right": "ימין",
 	"visualeditor-dialog-media-position-section": "מיקום",
-	"visualeditor-dialog-media-position-section-help": "אפשר להגדיר איפה בדף יופיע פריט המדיה הזה. זה לעתים משמש לשבירת שורה ארוכה של תמונות בצד אחד של הדף.",
+	"visualeditor-dialog-media-position-section-help": "אפשר להגדיר איפה בדף יופיע פריט המדיה הזה. זה לעיתים משמש לשבירת שורה ארוכה של תמונות בצד אחד של הדף.",
 	"visualeditor-dialog-media-save": "שמירה",
 	"visualeditor-dialog-media-search-tab-search": "חיפוש",
 	"visualeditor-dialog-media-search-tab-upload": "העלאה",
