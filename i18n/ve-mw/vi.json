@@ -177,6 +177,7 @@
 	"visualeditor-dialog-transclusion-action-save": "Lưu",
 	"visualeditor-dialog-transclusion-absent-template": "Bản mẫu “$1” chưa tồn tại.",
 	"visualeditor-dialog-transclusion-add-content": "Thêm nội dung",
+	"visualeditor-dialog-transclusion-add-wikitext": "Thêm mã wiki",
 	"visualeditor-dialog-transclusion-add-param": "Bổ sung thêm thông tin",
 	"visualeditor-dialog-transclusion-add-param-placeholder": "Tên tham số",
 	"visualeditor-dialog-transclusion-add-param-save": "Thêm tham số",
