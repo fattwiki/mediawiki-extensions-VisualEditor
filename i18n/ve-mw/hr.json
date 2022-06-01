@@ -180,6 +180,7 @@
 	"visualeditor-dialog-transclusion-content": "Sadržaj",
 	"visualeditor-dialog-transclusion-contextitem-description": "Stvoreno od: $1",
 	"visualeditor-dialog-transclusion-expand-options": "Prikaži mogućnosti",
+	"visualeditor-dialog-transclusion-filter-placeholder": "Pronađi parametar",
 	"visualeditor-dialog-transclusion-filter-no-match": "Nisu pronađene podudarnosti",
 	"visualeditor-dialog-transclusion-deprecated-parameter": "Polje koje se više ne koristi",
 	"visualeditor-dialog-transclusion-deprecated-parameter-description": "Polje se više ne koristi. $1",
