@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Laitei",
-			"Teitei Para"
+			"Teitei Para",
+			"Taytay"
 		]
 	},
 	"tooltip-ca-ve-edit": "He châhmia he taopathi",
 	"visualeditor-ca-createlocaldescriptionsource": "Vâtlâh palâsana hnawh khô teih",
 	"visualeditor-ca-createsource": "Hnawh tao",
 	"visualeditor-ca-editsource": "Hnawh rohpathi",
-	"visualeditor-ca-editsource-section": "ahnawh taoapathi",
+	"visualeditor-ca-editsource-section": "ahnawh taopathi",
 	"visualeditor-descriptionpagelink": "Project:VisualEditor"
 }
