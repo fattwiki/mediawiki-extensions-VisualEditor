@@ -12,7 +12,8 @@
 			"Чаховіч Уладзіслаў",
 			"ZlyiLev",
 			"Chadyka",
-			"No Sleep till Krupki"
+			"No Sleep till Krupki",
+			"Tomato Cream"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -38,7 +39,7 @@
 	"visualeditor-ca-createsource": "Стварыць зыходны тэкст",
 	"visualeditor-ca-editlocaldescriptionsource": "Правіць крыніцу лакальнага апісання",
 	"visualeditor-ca-editsource": "Правіць зыходны тэкст",
-	"visualeditor-ca-editsource-section": "Правіць зыходнік",
+	"visualeditor-ca-editsource-section": "правіць зыходнік",
 	"visualeditor-ca-ve-create": "Візуальны рэдактар",
 	"visualeditor-ca-ve-edit": "Візуальны рэдактар",
 	"visualeditor-ca-ve-edit-section": "Візуальны рэдактар",
@@ -198,7 +199,7 @@
 	"visualeditor-dialog-transclusion-remove-param": "Выдаліць поле",
 	"visualeditor-dialog-transclusion-remove-template": "Выдаліць шаблон",
 	"visualeditor-dialog-transclusion-required-parameter": "Абавязковае поле",
-	"visualeditor-dialog-transclusion-required-parameter-description": "Поле з’яўляецца абавязковым.",
+	"visualeditor-dialog-transclusion-required-parameter-description": "Поле абавязковае.",
 	"visualeditor-dialog-transclusion-required-parameter-dialog-cancel": "Вярнуцца",
 	"visualeditor-dialog-transclusion-required-parameter-dialog-ok": "Усё адно працягнуць",
 	"visualeditor-dialog-transclusion-required-parameter-dialog-title": "{{PLURAL:$1|1=Адсутнічае абавязковае поле|Адсутнічаюць абавязковыя палі}}",
