@@ -28,7 +28,8 @@
 			"محمد أحمد عبد الفتاح",
 			"محمد عصام",
 			"مشعل الحربي",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"Mohanad Kh"
 		]
 	},
 	"collabpad-doctitle": "كولاب باد: $1",
@@ -183,7 +184,7 @@
 	"visualeditor-dialog-transclusion-absent-template": "القالب \"$1\" غير موجود حتى الآن.",
 	"visualeditor-dialog-transclusion-add-content": "أضف محتوى",
 	"visualeditor-dialog-transclusion-add-param": "إضافة معلومات أخرى",
-	"visualeditor-dialog-transclusion-add-template": "أضف قالبًا",
+	"visualeditor-dialog-transclusion-add-template": "أضف",
 	"visualeditor-dialog-transclusion-content": "محتوى",
 	"visualeditor-dialog-transclusion-contextitem-description": "مولد من: $1",
 	"visualeditor-dialog-transclusion-deprecated-parameter": "حقل مستغنى عنه",

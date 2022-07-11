@@ -13,7 +13,8 @@
 			"ZlyiLev",
 			"Chadyka",
 			"No Sleep till Krupki",
-			"Tomato Cream"
+			"Tomato Cream",
+			"Tīgelika"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -165,7 +166,7 @@
 	"visualeditor-dialog-transclusion-absent-template": "Шаблон «$1» пакуль не існуе.",
 	"visualeditor-dialog-transclusion-add-content": "Дадаць змест",
 	"visualeditor-dialog-transclusion-add-param": "Дадаць больш інфармацыі",
-	"visualeditor-dialog-transclusion-add-template": "Дадаць шаблон",
+	"visualeditor-dialog-transclusion-add-template": "Дадаць",
 	"visualeditor-dialog-transclusion-content": "Змест",
 	"visualeditor-dialog-transclusion-contextitem-description": "Атрымана з: $1",
 	"visualeditor-dialog-transclusion-deprecated-parameter": "Састарэлае поле",

@@ -46,7 +46,11 @@
 			"Mnivar",
 			"Rodney Araujo",
 			"Suecarmol",
-			"TMg"
+			"TMg",
+			"Adamw",
+			"DiegoAmbrocio",
+			"Ice bulldog",
+			"Josuert"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -201,7 +205,7 @@
 	"visualeditor-dialog-transclusion-absent-template": "Aún no existe la plantilla «$1».",
 	"visualeditor-dialog-transclusion-add-content": "Añadir contenido",
 	"visualeditor-dialog-transclusion-add-param": "Añadir más información",
-	"visualeditor-dialog-transclusion-add-template": "Añadir una plantilla",
+	"visualeditor-dialog-transclusion-add-template": "Añadir plantilla",
 	"visualeditor-dialog-transclusion-content": "Contenido",
 	"visualeditor-dialog-transclusion-contextitem-description": "Generados a partir de: $1",
 	"visualeditor-dialog-transclusion-deprecated-parameter": "Campo obsoleto",
