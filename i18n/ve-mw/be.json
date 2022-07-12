@@ -13,7 +13,8 @@
 			"ZlyiLev",
 			"Chadyka",
 			"No Sleep till Krupki",
-			"Tomato Cream"
+			"Tomato Cream",
+			"Tīgelika"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -173,7 +174,7 @@
 	"visualeditor-dialog-transclusion-add-param-error-forbidden-char": "$1 з’яўляецца забароненым сімвалам. Калі ласка, выдаліце яго, каб дадаць параметр.",
 	"visualeditor-dialog-transclusion-add-param-placeholder": "Назва параметра",
 	"visualeditor-dialog-transclusion-add-param-save": "Дадаць параметр",
-	"visualeditor-dialog-transclusion-add-template": "Дадаць шаблон",
+	"visualeditor-dialog-transclusion-add-template": "Дадаць",
 	"visualeditor-dialog-transclusion-add-undocumented-param": "Дадаць недакументаваны параметр",
 	"visualeditor-dialog-transclusion-collapse-options": "Схаваць параметры",
 	"visualeditor-dialog-transclusion-content": "Змест",

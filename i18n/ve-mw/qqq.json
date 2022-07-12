@@ -202,7 +202,7 @@
 	"visualeditor-dialog-transclusion-add-param-help": "Help text for new undocumented parameter input field.\n\nParameters:\n* $1 - The title of the template.",
 	"visualeditor-dialog-transclusion-add-param-placeholder": "Placeholder in the input field that adds a new undocumented parameter to a transcluded template.",
 	"visualeditor-dialog-transclusion-add-param-save": "Label for save button that adds a new undocumented parameter to a transcluded template.",
-	"visualeditor-dialog-transclusion-add-template": "Label for button that adds the specified template to the page.\n{{Identical|Add template}}",
+	"visualeditor-dialog-transclusion-add-template": "Heading to add the specified template to the page.",
 	"visualeditor-dialog-transclusion-add-undocumented-param": "Label for button that adds a new undocumented parameter to a transcluded template.",
 	"visualeditor-dialog-transclusion-collapse-options": "Label for button that hides advanced options in transclusion dialog",
 	"visualeditor-dialog-transclusion-content": "Label for editor of content between transclusion parts.\n{{Identical|Content}}",

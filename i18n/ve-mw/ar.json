@@ -28,7 +28,8 @@
 			"محمد أحمد عبد الفتاح",
 			"محمد عصام",
 			"مشعل الحربي",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"Mohanad Kh"
 		]
 	},
 	"collabpad-doctitle": "كولاب باد: $1",
@@ -188,7 +189,7 @@
 	"visualeditor-dialog-transclusion-add-param": "إضافة معلومات أخرى",
 	"visualeditor-dialog-transclusion-add-param-placeholder": "اسم الوسيط",
 	"visualeditor-dialog-transclusion-add-param-save": "أضف وسيط",
-	"visualeditor-dialog-transclusion-add-template": "أضف قالبًا",
+	"visualeditor-dialog-transclusion-add-template": "أضف",
 	"visualeditor-dialog-transclusion-add-undocumented-param": "أضف وسيطًا غير موثق",
 	"visualeditor-dialog-transclusion-collapse-options": "إخفاء الخيارات",
 	"visualeditor-dialog-transclusion-content": "محتوى",
