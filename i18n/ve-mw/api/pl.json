@@ -35,6 +35,7 @@
 	"apihelp-visualeditor-param-pst": "Wstępna transformacja wikitekstu przed zapisem, zanim zostanie wysłany do Parsoida (paction=parsefragment).",
 	"apihelp-visualeditor-param-section": "Sekcja, na której działać.",
 	"apihelp-visualeditor-param-starttimestamp": "Podczas zapisywania, ustaw znacznik czasu, kiedy strona została załadowana. Służy to do wykrywania konfliktów edycji.",
+	"apihelp-visualeditor-param-stash": "Podczas zapisywania ustaw tę wartość na true, jeśli chcesz korzystać z interfejsu API do przechowywania.",
 	"apihelp-visualeditor-param-wikitext": "Wikikod wysyłany do usługi Parsoid, do przekonwertowania na HTML (paction=parsefragment).",
 	"apihelp-visualeditor-summary": "Zwraca kod HTML5 strony za pośrednictwem usługi Parsoid.",
 	"apihelp-visualeditoredit-description": "Zapisz stronę HTML5 w MediaWiki (konwertowana na wikikod przez usługę Parsoid).",
