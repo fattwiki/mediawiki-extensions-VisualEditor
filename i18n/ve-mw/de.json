@@ -21,7 +21,9 @@
 			"Johanna Strodt (WMDE)",
 			"R",
 			"TMg",
-			"ThePiscin"
+			"ThePiscin",
+			"Brettchenweber",
+			"Wnme"
 		]
 	},
 	"collabpad-doctitle": "CollabPad: $1",
@@ -211,7 +213,7 @@
 	"visualeditor-editingtabdialog-ok": "Den Editor verwenden, den ich bei meiner letzten Bearbeitung verwendet habe.",
 	"visualeditor-editingtabdialog-title": "Bearbeitungs-Registerkarten",
 	"visualeditor-editnotices-tool": "{{PLURAL:$1|Eine Notiz|$1 Notizen}}",
-	"visualeditor-editnotices-tooltip": "Bearbeitungsnotizen",
+	"visualeditor-editnotices-tooltip": "Bearbeitungshinweise",
 	"visualeditor-editsummary": "Bitte erläutere kurz deine Änderungen",
 	"visualeditor-editsummary-bytes-remaining": "Die Anzahl der verbleibenden Bytes",
 	"visualeditor-editsummary-characters-remaining": "Die verbleibende Anzahl der Zeichen",
