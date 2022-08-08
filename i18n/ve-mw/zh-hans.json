@@ -43,7 +43,13 @@
 			"Xzonn",
 			"Zhang8569",
 			"忒有钱",
-			"Lakejason0"
+			"Lakejason0",
+			"Bo77le",
+			"Diskdance",
+			"GraceL",
+			"Stang",
+			"Tr jason",
+			"Willy1018"
 		]
 	},
 	"collabpad-doctitle": "协作板：$1",
@@ -203,7 +209,7 @@
 	"visualeditor-dialog-transclusion-contextitem-description": "生成自：$1",
 	"visualeditor-dialog-transclusion-deprecated-parameter": "弃用字段",
 	"visualeditor-dialog-transclusion-deprecated-parameter-description": "字段已弃用。$1",
-	"visualeditor-dialog-transclusion-loading": "正在载入...",
+	"visualeditor-dialog-transclusion-loading": "正在加载...",
 	"visualeditor-dialog-transclusion-more-template-description": "在[[{{ns:template}}:$1|该页面]]可能包含一些有关“$1”模板的额外信息。",
 	"visualeditor-dialog-transclusion-multiple-mode": "显示选项",
 	"visualeditor-dialog-transclusion-no-template-description": "“$1”模板还没有描述，但在[[$1|模板页面]]上可能有一些信息。",
