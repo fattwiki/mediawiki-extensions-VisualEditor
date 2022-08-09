@@ -10,10 +10,11 @@
 			"बिप्लब आनन्द",
 			"राम प्रसाद जोशी",
 			"सरोज कुमार ढकाल",
-			"हिमाल सुबेदी"
+			"हिमाल सुबेदी",
+			"Bada Kaji"
 		]
 	},
-	"tooltip-ca-ve-edit": "यो पृष्ठ सम्पादन गर्ने",
+	"tooltip-ca-ve-edit": "यो पृष्ठ सम्पादन गर्नुहोस्",
 	"visualeditor-advancedsettings-tool": "उन्नत सेटिङहरू",
 	"visualeditor-autosave-modified-prompt-accept": "सम्पादन पुनः सुरु गर्नुहोस्",
 	"visualeditor-autosave-modified-prompt-reject": "नयाँ सम्पादन सुरू गर्नुहोस्",
@@ -27,6 +28,9 @@
 	"visualeditor-ca-ve-edit": "दृष्टि सम्पादक",
 	"visualeditor-ca-ve-edit-section": "दृष्टि सम्पादक",
 	"visualeditor-categories-tool": "श्रेणीहरू",
+	"visualeditor-changedesc-mwlanguagevariant": "भाषा भेरियन्ट मार्कअप परिवर्तन भयो",
+	"visualeditor-changedesc-mwredirect": "अनुप्रेषण $1 बाट $2 मा परिवर्तन गरियो",
+	"visualeditor-changedesc-mwtransclusion": "ढाँचा प्यारामिटरहरू परिवर्तन गरियो",
 	"visualeditor-desc": "मेडियाविकिको लागि दृष्टि सम्पादक",
 	"visualeditor-descriptionpagelink": "Project:भिजुअल इडिटर",
 	"visualeditor-dialog-media-alttext-section": "वैकल्पिक पाठ",
