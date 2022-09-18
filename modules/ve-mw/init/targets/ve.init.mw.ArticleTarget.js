@@ -927,20 +927,33 @@ ve.init.mw.ArticleTarget.prototype.onSaveDialogPreview = function () {
 		this.emit( 'savePreview' );
 		this.saveDialog.pushPending();
 
+		var promise;
 		var wikitext = this.getDocToSave();
-		if ( this.sectionTitle && this.sectionTitle.getValue() ) {
-			wikitext = '== ' + this.sectionTitle.getValue() + ' ==\n\n' + wikitext;
+		if (wikitext instanceof HTMLDocument) {
+			promise = this.serialize( wikitext );
+		} else {
+			if ( this.sectionTitle && this.sectionTitle.getValue() ) {
+				wikitext = '== ' + this.sectionTitle.getValue() + ' ==\n\n' + wikitext;
+			}
+			promise = Promise.resolve({ content: wikitext });
 		}
-
-		api.post( {
-			action: 'visualeditor',
-			paction: 'parsedoc',
-			page: this.getPageName(),
-			wikitext: wikitext,
-			pst: true
-		} ).then( function ( response ) {
+		
+		promise.then(( wikitextResponse ) => {
+			wikitext = wikitextResponse.content;
+			return api.post( { 
+				// Fattwiki change: use legacy parse because visualeditor parse doesn't handle infoboxes
+				action: 'parse',
+				format: 'json',
+				title: this.getPageName(),
+				text: wikitext,
+				preview: true,
+				useskin: 'vector-2022',
+				uselang: 'en',
+				pst: true
+			} )
+		}).then( function ( response ) {
 			var baseDoc = target.getSurface().getModel().getDocument().getHtmlDocument();
-			var doc = target.constructor.static.parseDocument( response.visualeditor.content, 'visual' );
+			var doc = target.constructor.static.parseDocument( response.parse.text, 'visual' );
 			target.saveDialog.showPreview( doc, baseDoc );
 		}, function ( errorCode, details ) {
 			target.saveDialog.showPreview( target.extractErrorMessages( details ) );
@@ -1968,7 +1981,7 @@ ve.init.mw.ArticleTarget.prototype.showSaveDialog = function ( action, checkboxN
 ve.init.mw.ArticleTarget.prototype.getSaveDialogOpeningData = function () {
 	var mode = this.getSurface().getMode();
 	return {
-		canPreview: mode === 'source',
+		canPreview: true,
 		canReview: !( mode === 'source' && this.section === 'new' ),
 		sectionTitle: this.sectionTitle && this.sectionTitle.getValue(),
 		saveButtonLabel: this.getSaveButtonLabel(),
