@@ -938,13 +938,13 @@ ve.init.mw.ArticleTarget.prototype.onSaveDialogPreview = function () {
 			promise = Promise.resolve({ content: wikitext });
 		}
 		
-		promise.then(( wikitextResponse ) => {
+		promise.then( function ( wikitextResponse ) {
 			wikitext = wikitextResponse.content;
 			return api.post( { 
 				// Fattwiki change: use legacy parse because visualeditor parse doesn't handle infoboxes
 				action: 'parse',
 				format: 'json',
-				title: this.getPageName(),
+				title: target.getPageName(),
 				text: wikitext,
 				preview: true,
 				useskin: 'vector-2022',
